@@ -9,8 +9,8 @@
 </tr>
 <tr>
 <td>Page Title</td>
-<td>yes</td>
-<td>The Page title length of your page is 26 characters. Most search engines will truncate Page title to 65 characters.</td>
+<td>yes.
+The Page title length of your page is 26 characters. Most search engines will truncate Page title to 65 characters.</td>
 </tr>
 <tr>
 <td>Admin Name</td>
