@@ -17,6 +17,14 @@ The Page title length of your page is 26 characters. Most search engines will tr
 <td>Dr.Ajay Gupta</td>
 </tr>
 <tr>
+<td>SiteMap</td>
+<td> 1 Sitemap </td>
+</tr>
+<tr>
+<td> Favicon Test </td>
+<td> Found </td>
+</tr>
+<tr>
 <td>Meta Description</td> 
 <td>Meta Description not Found : The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
