@@ -8,8 +8,8 @@
 </tr>
 <tr>
 <td>Page Title</td>
-<td>yes.
-The Page title length of your page is 26 characters. Most search engines will truncate Page title to 65 characters.</td>
+<td>
+The Page title length  is 26 characters. Most search engines will truncate Page title to 65 characters.</td>
 </tr>
 <tr>
 <td>Admin Name</td>
@@ -25,16 +25,16 @@ The Page title length of your page is 26 characters. Most search engines will tr
 </tr>
 <tr>
 <td>Meta Description</td> 
-<td>Meta Description not Found : The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
+<td>Meta Description not Found : The meta description length of page is 0 characters.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
-<td>Meta keywords not Found : Google Does not accept meta keywords any more..</td>
+<td>Meta keywords not Found</td>
 </tr>
 <tr>
 <td>Robots.txt</td>
-<td>404- Page not Found.
-site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
+<td>
+Site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
 </tr>
 <tr>
 <td>Inline Css Test</td>
