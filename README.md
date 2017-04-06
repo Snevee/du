@@ -1,7 +1,6 @@
 <html>
 <body>
 <b>Delhi University</b>
-<h1> Suggestion </h1>
 <table>
 <tr>
 <th> Tag </th>
