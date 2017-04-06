@@ -17,7 +17,7 @@ The Page title length  is 26 characters. Most search engines will truncate Page 
 </tr>
 <tr>
 <td>SiteMap</td>
-<td> 1 Sitemap </td>
+<td> 1 Sitemap found </td>
 </tr>
 <tr>
 <td> Favicon Test </td>
