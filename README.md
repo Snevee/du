@@ -3,7 +3,7 @@
 <b>Delhi University</b>
 <table>
 <tr>
-<th> Tag </th>
+<th> Check </th>
 <th> Details</th>
 </tr>
 <tr>
