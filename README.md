@@ -1,13 +1,13 @@
 <html>
 <body>
-<center><h1><u><font size=10 color="black">DELHI UNIVERSITY</font></u></h1></center>
+<center><h1><u>DELHI UNIVERSITY</u></h1></center>
 <marquee><u> SEO REPORT </u> </marquee>
 <table>
 <tr>
-<td> Check </td>
-<td> Status </td>
-<td> Details</td>
-<td>Suggestions</td>
+<td> <b>Check</b> </td>
+<td> <b>Status</b> </td>
+<td> <b>Details</b></td>
+<td><b>Suggestions</b></td>
 </tr>
 <tr>
 <td>Page Title</td>
@@ -119,10 +119,10 @@ http://www.du.ac.in/uploads/sc-st-Grievance-1.pdf </td>
 <td> PageRank is a way of measuring the importance of website pages. <p>
 More backlinks need to be used to increase the PR.</td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
-<th> Domain Information </th>
+<td> Domain Information </td>
+<td> </td>
 </tr>
 <tr>
 <td>Domain</td>
@@ -140,18 +140,16 @@ More backlinks need to be used to increase the PR.</td>
 <td>Updated Date</td>
 <td>2017-02-28</td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
 <td> SEO Score </td>
 <td> 50 </td>
 </tr>
-</table>
-<table>
+<p>
 <tr>
 <td> SEO Grade </td>
-<td><a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
+<td><a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a> </td>
 </tr>
 </table>
-<body/>
-<html/>
+</body>
+</html>
