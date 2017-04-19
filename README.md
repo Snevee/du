@@ -1,6 +1,6 @@
 <html>
 <head>
-<title><u>DELHI UNIVERSITY</u></title>
+<u>DELHI UNIVERSITY</u>
 </head>
 <body>
 <u> SEO REPORT </u> <p>
