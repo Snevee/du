@@ -146,6 +146,8 @@ More backlinks need to be used to increase the PR.</td>
 <td> SEO Score </td>
 <td> 50 </td>
 </tr>
+</table>
+<table>
 <tr>
 <td> SEO Grade </td>
 <td><a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
