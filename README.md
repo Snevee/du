@@ -1,10 +1,10 @@
 <html>
-<body>
 <head>
-<h1><u>DELHI UNIVERSITY</u></h1>
+<title><u>DELHI UNIVERSITY</u></title>
 </head>
-<u> SEO REPORT </u>
-<table>
+<body>
+<u> SEO REPORT </u> <p>
+<table cellspacing=5>
 <tr>
 <th> Check </th>
 <th> Status </th>
