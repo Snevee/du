@@ -127,6 +127,8 @@ More backlinks need to be used to increase the PR.</td>
 <tr>
 <td>Domain</td>
 <td>du.ac.in</td>
+</tr>
+<tr>
 <td>Registration Date</td>
 <td>2004-02-28</td>
 </tr>
