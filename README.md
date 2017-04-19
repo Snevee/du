@@ -1,19 +1,21 @@
 <html>
 <body>
-<center><h1><u>DELHI UNIVERSITY</u></h1></center>
-<marquee><u> SEO REPORT </u> </marquee>
+<head>
+<h1><u>DELHI UNIVERSITY</u></h1>
+</head>
+<u> SEO REPORT </u>
 <table>
 <tr>
-<td> <b>Check</b> </td>
-<td> <b>Status</b> </td>
-<td> <b>Details</b></td>
-<td><b>Suggestions</b></td>
+<th> Check </th>
+<th> Status </th>
+<th> Details </th>
+<th> Suggestions </th>
 </tr>
 <tr>
 <td>Page Title</td>
 <td>FOUND </td>
-<td>The Page title length of the page is 26 characters.<p> Page title can be upto 65 characters.</td>
-<td>University of Delhi (DU)- Government Colleges </td>
+<td> The Page title length of the page is 26 characters.<p> Page title can be upto 65 characters. </td>
+<td> University of Delhi (DU)- Government Colleges </td>
 </tr>
 <tr>
 <td> Meta Description </td>
