@@ -48,7 +48,7 @@ Keywords such as <b> DU Colleges</b>, <b>DU Society</b>, <b>DU Placements</b> ca
 <td> NOT FOUND </td>
 <td>NO h1 Headings found
 </td>
-<td><td> H1 headings should be used as it effects the SEO of your page  </td>
+<td> H1 headings should be used as it effects the SEO of your page  </td>
 </tr>
 <tr>
 <td> h2 Headings </td>
@@ -119,12 +119,7 @@ http://www.du.ac.in/uploads/sc-st-Grievance-1.pdf</td>
   <td>Page size</td><td >GOOD</td><td >Page size is 2.7Mb</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
         </tr>
 </table>
-<p>
-<table>
-<tr>
-<td><b>ADMIN NAME:</b> <i>Director RTI</i></td>
-</tr>
-</table>
+
 <p>
 <table>
 <tr>
