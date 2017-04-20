@@ -40,7 +40,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td> Meta Keywords</td>
 <td>NOT FOUND </td>
 <td>Meta keywords are not found</td>
-<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<p>
+<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<br>
 Keywords such as <b> DU Colleges</b>, <b>DU Society</b>, <b>DU Placements</b> can be used. </td>
 </tr>
 <tr>
