@@ -85,9 +85,9 @@ Web site owners use the /robots.txt file to give instructions about their site t
 <td>Underscores in Links Test	</td>
 <td>FOUND</td>
 <td>5 underscore links were found in the webpage</td>
-<td>Hyphens should be used instead of underscores.<p>
-Eg : http://www.du.ac.in/uploads/sc_st_Grievance_1.pdf <p>
-This can be replaced by : <p>
+<td>Hyphens should be used instead of underscores.<br>
+Eg : http://www.du.ac.in/uploads/sc_st_Grievance_1.pdf <br>
+This can be replaced by : <br>
 http://www.du.ac.in/uploads/sc-st-Grievance-1.pdf</td>
 </tr>
 <tr>
