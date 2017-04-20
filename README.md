@@ -22,17 +22,11 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td>University of Delhi (DU)- Government Colleges</td>
 </tr>
 <tr>
-<td>Meta Description</td> 
-<td>NOT FOUND </td>
-<td>The meta description length of this page 0 characters.</td>
-<td>Most search engines will truncate meta descriptions to 160 characters.</td>
-</tr>
-<tr>
 <td>Meta Description</td>
 <td>NOT FOUND </td>
-<td>Their is no meta description in the page.<p>
+<td>Their is no meta description in the page.<br>
  Meta descriptions can be upto 160 characters. </td> 
-<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
+<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<br>
 <b>Meta description suggestion </b> : The University of Delhi informally known as Delhi University (DU) is a public central collegiate university, located in New Delhi, India. It offers Undergraduate as well as Post-Graduation Courses. There are about 77 colleges affiliated to the University of Delhi, spread out all over Delhi.
 <b>Google Does not accept meta keywords any more.</b></td>
 </tr>
